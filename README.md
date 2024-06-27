@@ -11,6 +11,7 @@ I'm making strides in Python, C#, and SQL, while exploring HTML/CSS, JavaScript,
 * ⭐   I'm currently working on [Resurge](https://www.linkedin.com/company/resurge-app/)
 * 🧠  I'm currently learning Computer Vision
 * 🤝  I'm open to collaborating on innovative projects that solve real world problems
+* 🔗  View my kaggle profile [here](https://www.kaggle.com/lekhyasreem)
 
 <a href="https://www.github.com/Lekhya25" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Lekhya25?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
